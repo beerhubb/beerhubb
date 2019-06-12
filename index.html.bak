@@ -21,14 +21,14 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
-  <img src="/w3images/avatar_smoke.jpg" style="width:100%">
+  <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/60554688_2102650756512312_2559278472321040384_n.jpg?_nc_cat=103&_nc_oc=AQnwK70-k40DSsoQcTY1Cuo71E627ytNeQwTzKuoFamH2IuaOxk1retEX1VyF1UkuZ0&_nc_ht=scontent.fbkk10-1.fna&oh=1530b427f21cbf6d8fb9ef2699cc946a&oe=5D8E3E2B" style="width:30%">
   <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
   </a>
   <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-user w3-xxlarge"></i>
-    <p>เกี่ยวกับ</p>
+    <p>ABOUT</p>
   </a>
   <a href="#photos" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-eye w3-xxlarge"></i>
@@ -44,7 +44,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
   <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
     <a href="#" class="w3-bar-item w3-button" style="width:25% !important">HOME</a>
-    <a href="#about" class="w3-bar-item w3-button" style="width:25% !important">เกี่ยวกับ</a>
+    <a href="#about" class="w3-bar-item w3-button" style="width:25% !important">ABOUT</a>
     <a href="#photos" class="w3-bar-item w3-button" style="width:25% !important">PHOTOS</a>
     <a href="#contact" class="w3-bar-item w3-button" style="width:25% !important">CONTACT</a>
   </div>
@@ -56,103 +56,15 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> BeerHubb</h1>
     <p>Photographer and Web Designer.</p>
-    <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/62383720_2138350899608964_4083934919724630016_n.jpg?_nc_cat=101&_nc_oc=AQn7sR4NZmTu2Yh6DbAcq0eIcNcJijC0_Ldqqsa7HEfpphxMsHHCzQCwkYVw_BqmS9c&_nc_ht=scontent.fbkk10-1.fna&oh=eea786d1e66b80bf8985148f58c87d15&oe=5D9B8DDB" alt="beer" class="w3-image" width="600" height="800">
+    <img src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/50792649_1932010130243043_7834482559399493632_n.jpg?_nc_cat=100&_nc_oc=AQmK6-hHbTGQEKZFrPPEAnE3kftIifLspV2okU_dHZeS0gk2JG357i1M2LAqW-bGZzc&_nc_ht=scontent.fbkk14-1.fna&oh=363daf21d7362f2036c88c6e5987f250&oe=5D81463E" alt="beer" class="w3-image" width="600" height="800">
   </header>
 
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <h2 class="w3-text-light-grey">My Name</h2>
     <hr style="width:200px" class="w3-opacity">
-    <p>Some text about me. Some text about me. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-      ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </p>
-    <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
-    <p class="w3-wide">Photography</p>
-    <div class="w3-white">
-      <div class="w3-dark-grey" style="height:28px;width:95%"></div>
-    </div>
-    <p class="w3-wide">Web Design</p>
-    <div class="w3-white">
-      <div class="w3-dark-grey" style="height:28px;width:85%"></div>
-    </div>
-    <p class="w3-wide">Photoshop</p>
-    <div class="w3-white">
-      <div class="w3-dark-grey" style="height:28px;width:80%"></div>
-    </div><br>
+    <p>สวัสดีครับ ผมชื่อนาย ไชวัฒน์ มะเดื่อ เป็นนักศึกษาชั้นปีที่4 สาขาวิศวกรรมซอฟต์แวร์ คณะศิลปศาสตร์และวิทยาศาสตร์ มหาวิทยาลัยราชภัฎศรีสะเกษ </p>
     
-    <div class="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
-      <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">11+</span><br>
-        Partners
-      </div>
-      <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">55+</span><br>
-        Projects Done
-      </div>
-      <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">89+</span><br>
-        Happy Clients
-      </div>
-      <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">150+</span><br>
-        Meetings
-      </div>
-    </div>
-
-    <button class="w3-button w3-light-grey w3-padding-large w3-section">
-      <i class="fa fa-download"></i> Download Resume
-    </button>
-    
-    <!-- Grid for pricing tables -->
-    <h3 class="w3-padding-16 w3-text-light-grey">My Price</h3>
-    <div class="w3-row-padding" style="margin:0 -16px">
-      <div class="w3-half w3-margin-bottom">
-        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
-          <li class="w3-dark-grey w3-xlarge w3-padding-32">Basic</li>
-          <li class="w3-padding-16">Web Design</li>
-          <li class="w3-padding-16">Photography</li>
-          <li class="w3-padding-16">5GB Storage</li>
-          <li class="w3-padding-16">Mail Support</li>
-          <li class="w3-padding-16">
-            <h2>$ 10</h2>
-            <span class="w3-opacity">per month</span>
-          </li>
-          <li class="w3-light-grey w3-padding-24">
-            <button class="w3-button w3-white w3-padding-large w3-hover-black">Sign Up</button>
-          </li>
-        </ul>
-      </div>
-
-      <div class="w3-half">
-        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
-          <li class="w3-dark-grey w3-xlarge w3-padding-32">Pro</li>
-          <li class="w3-padding-16">Web Design</li>
-          <li class="w3-padding-16">Photography</li>
-          <li class="w3-padding-16">50GB Storage</li>
-          <li class="w3-padding-16">Endless Support</li>
-          <li class="w3-padding-16">
-            <h2>$ 25</h2>
-            <span class="w3-opacity">per month</span>
-          </li>
-          <li class="w3-light-grey w3-padding-24">
-            <button class="w3-button w3-white w3-padding-large w3-hover-black">Sign Up</button>
-          </li>
-        </ul>
-      </div>
-    <!-- End Grid/Pricing tables -->
-    </div>
-    
-    <!-- Testimonials -->
-    <h3 class="w3-padding-24 w3-text-light-grey">My Reputation</h3>  
-    <img src="/w3images/bandmember.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-    <p><span class="w3-large w3-margin-right">Chris Fox.</span> CEO at Mighty Schools.</p>
-    <p>Jane Doe saved us from a web disaster.</p><br>
-    
-    <img src="/w3images/avatar_g2.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-    <p><span class="w3-large w3-margin-right">Rebecca Flex.</span> CEO at Company.</p>
-    <p>No one is better than Jane Doe.</p>
-  <!-- End About Section -->
   </div>
   
   <!-- Portfolio Section -->
@@ -163,16 +75,16 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <!-- Grid for photos -->
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
-        <img src="/w3images/wedding.jpg" style="width:100%">
-        <img src="/w3images/rocks.jpg" style="width:100%">
-        <img src="/w3images/sailboat.jpg" style="width:100%">
+        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/62383720_2138350899608964_4083934919724630016_n.jpg?_nc_cat=101&_nc_oc=AQn7sR4NZmTu2Yh6DbAcq0eIcNcJijC0_Ldqqsa7HEfpphxMsHHCzQCwkYVw_BqmS9c&_nc_ht=scontent.fbkk10-1.fna&oh=eea786d1e66b80bf8985148f58c87d15&oe=5D9B8DDB" style="width:100%">
+        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/60554688_2102650756512312_2559278472321040384_n.jpg?_nc_cat=103&_nc_oc=AQnwK70-k40DSsoQcTY1Cuo71E627ytNeQwTzKuoFamH2IuaOxk1retEX1VyF1UkuZ0&_nc_ht=scontent.fbkk10-1.fna&oh=1530b427f21cbf6d8fb9ef2699cc946a&oe=5D8E3E2B" style="width:100%">
+        <img src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/50762610_1930684300375626_33722923567022080_n.jpg?_nc_cat=104&_nc_oc=AQnQHNa-MIVorXGuqjC-J1auiC2u4-gsqQxFHIJsUOshNpwO9dfPmEWAWbkyZUiz91E&_nc_ht=scontent.fbkk14-1.fna&oh=9638cb66d4ca4dd152dfdd876bffcb56&oe=5D9B14EC" style="width:100%">
       </div>
 
       <div class="w3-half">
-        <img src="/w3images/underwater.jpg" style="width:100%">
-        <img src="/w3images/chef.jpg" style="width:100%">
-        <img src="/w3images/wedding.jpg" style="width:100%">
-        <img src="/w3images/p6.jpg" style="width:100%">
+        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/49592400_1907945265982863_7907200826781728768_n.jpg?_nc_cat=109&_nc_oc=AQleRL3_pTVj8B8oVj2oMf4mIIyxsdYSKoXCTgUee2XctYNgyXQ8Sr5b84T2t_wfB8g&_nc_ht=scontent.fbkk10-1.fna&oh=f27a1d89099d724d3b104ff3b5b0c2d4&oe=5D8958A9" style="width:100%">
+        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/49399995_1906922219418501_5940902611841449984_n.jpg?_nc_cat=107&_nc_oc=AQn3mX4H8QPTa8lhpE2xC1PwIE7yziQAzMEe7p5yrjPJkR6epgURWOQCXcqGBqXVHf0&_nc_ht=scontent.fbkk10-1.fna&oh=8f57a2f0d7ea98901a3d82fd6ea1b301&oe=5D881C2A" style="width:100%">
+        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/47376572_1858953714215352_3509049866368057344_n.jpg?_nc_cat=105&_nc_oc=AQkz3e9cSl02ccjF1NhPNEkx95Wu0QhFA7Moksiyyh4HyB5yKNhW2CLjVpZh4RFPhaU&_nc_ht=scontent.fbkk10-1.fna&oh=e04628bdfe12611fc7f8b7648ff6177e&oe=5D948933" width="550" height="500">
+        
       </div>
     <!-- End photo grid -->
     </div>
@@ -185,9 +97,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <hr style="width:200px" class="w3-opacity">
 
     <div class="w3-section">
-      <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Chicago, US</p>
-      <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: +00 151515</p>
-      <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: mail@mail.com</p>
+      <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> BangKok, TH</p>
+      <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: 0610384626</p>
+      <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: Chaiyawat.madu59@sskru.ac.th</p>
     </div><br>
     <p>Lets get in touch. Send me a message:</p>
 
